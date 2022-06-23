@@ -1,8 +1,4 @@
-<img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/azimvau.gif" width="120" height="120" align="left">
-<center>
-  
-  
- 
+
    ##  MY SOCIAL MEDIA : <br>
 
 <a href="https://Instagram.com/rj.shuvoh4ck3r" target="_blank"><img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/instagram.png" alt="alt text" width="25" height="25"></a> 
