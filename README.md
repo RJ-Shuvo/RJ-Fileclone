@@ -26,7 +26,7 @@ $ git clone https://github.com/RJ-Shuvo/RJ-Fileclone
 #### RUN SCRIPT
 ```python
 $ RJ-Fileclone
-$ python RJ-File.py
+$ python RJ_SHUVO-PRO.py
 ```
 
 
